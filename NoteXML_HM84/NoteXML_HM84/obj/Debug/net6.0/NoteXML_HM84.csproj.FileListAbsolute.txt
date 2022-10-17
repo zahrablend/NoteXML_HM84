@@ -1,0 +1,15 @@
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\bin\Debug\net6.0\NoteXML_HM84.exe
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\bin\Debug\net6.0\NoteXML_HM84.deps.json
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\bin\Debug\net6.0\NoteXML_HM84.runtimeconfig.json
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\bin\Debug\net6.0\NoteXML_HM84.dll
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\bin\Debug\net6.0\NoteXML_HM84.pdb
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.csproj.AssemblyReference.cache
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.AssemblyInfo.cs
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.dll
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\refint\NoteXML_HM84.dll
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.pdb
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\NoteXML_HM84.genruntimeconfig.cache
+C:\Users\zahra\source\repos\NoteXML_HM84\NoteXML_HM84\obj\Debug\net6.0\ref\NoteXML_HM84.dll
